@@ -1,0 +1,12 @@
+# Данные
+data/exoplanets.csv
+data/*.csv
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Блокноты
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
